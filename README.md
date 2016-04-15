@@ -1,10 +1,10 @@
-[![A13XX](ADC121C_A13XX_I2CS.png)](https://www.controleverything.com/content/Hall-Effect?sku=ADC121C_A13XX_I2CS_A1304ELHLX-05-T)
-# A13XX
-A13XX Hall Effect Sensor.
+[![ADC121C_A13XX](ADC121C_A13XX_I2CS.png)](https://www.controleverything.com/content/Hall-Effect?sku=ADC121C_A13XX_I2CS_A1304ELHLX-05-T)
+# ADC121C_A13XX
+ADC121C_A13XX Hall Effect Sensor.
 
-The A13XX provides a linear voltage output in proportion to a magnetic field.
+The ADC121C_A13XX provides a linear voltage output in proportion to a magnetic field.
 
-This Device is available from ControlEverything.com [SKU: ADC121C_A13XX_I2CS_A1304ELHLX-05-T]
+This Device is available from ControlEverything.com [SKU: ADC121C_A13XX]
 
 https://www.controleverything.com/content/Hall-Effect?sku=ADC121C_A13XX_I2CS_A1304ELHLX-05-T
 
@@ -19,12 +19,12 @@ Download (or git pull) the code in pi.
 
 Compile the java program.
 ```cpp
-$> pi4j A13XX.java
+$> pi4j ADC121C_A13XX.java
 ```
 
 Run the java program.
 ```cpp
-$> pi4j A13XX
+$> pi4j ADC121C_A13XX
 ```
 
 ## Python
@@ -35,7 +35,7 @@ https://pypi.python.org/pypi/smbus-cffi/0.5.1
 Download (or git pull) the code in pi. Run the program.
 
 ```cpp
-$> python A13XX.py
+$> python ADC121C_A13XX.py
 ```
 
 ## Arduino
