@@ -2,6 +2,7 @@ lang:java
 lang:python
 lang:arduino
 lang:particle
+lang:C
 sku:ADC121C_A13XX_I2CS_A1304ELHLX-T
 sku:ADC121C_A13XX_I2CS_A1304ELHLX-05-T
 sku:ADC121C_A13XX_I2CS_A1389
