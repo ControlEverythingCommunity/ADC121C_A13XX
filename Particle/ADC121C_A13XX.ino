@@ -11,7 +11,7 @@
 #define Addr 0x50
 
 int raw_adc = 0;
-float angle = 0.0;
+double angle = 0.0;
 
 void setup()
 {
@@ -52,6 +52,6 @@ void loop()
 
   // Output data to dashboard
   Particle.publish("Magnetic Angle :", String(angle));
-  delay(500);
+  delay(1000);
 }
 
